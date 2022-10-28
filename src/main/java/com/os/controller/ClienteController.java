@@ -27,7 +27,7 @@ import com.os.service.ClienteService;
 public class ClienteController {
 	
 	// teste 2
-
+//teste3
 	@Autowired
 	private ClienteService service;
 
