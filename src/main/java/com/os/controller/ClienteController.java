@@ -26,8 +26,6 @@ import com.os.service.ClienteService;
 @RequestMapping(value = "/clientes")
 public class ClienteController {
 	
-	// teste 2
-//teste3
 	@Autowired
 	private ClienteService service;
 
